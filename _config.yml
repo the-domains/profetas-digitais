@@ -1,4 +1,3 @@
-layout_spectrum: 0.4977999604307115
 typography_spectrum: 0.3632409954443574
 color:
   brandStrength: 0.27254804503172636
@@ -6,9 +5,19 @@ color:
   saturation: 0.29119334113784134
   rhythmicContrast: 0.29832356492988765
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+layout_spectrum: 0.4977999604307115
+author:
+  name: Cris Lindner
+  email: contato@profetasdigitais.com
+  url: www.profetasdigitais.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9704bc2a-b9ef-4cd4-b345-80040f37ac61.png
 name: Profetas Digitais
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/75c07017-bb51-4c8a-b0b6-46dd99bc4e3e.png
+title: 'Inspiração, Inovação & Desenvolvimento'
